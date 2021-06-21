@@ -10,11 +10,11 @@
 -  or you can upgrade jedi, work for you
 
 ```Jupyter Notebook
-   !pip install --upgrade jedi==0.17.2
+!pip install --upgrade jedi==0.17.2
 ```
 
 
 ## To run in command-line
 ```Shell
- pip install --upgrade jedi==0.17.2
+pip install --upgrade jedi==0.17.2
 ```
